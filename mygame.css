@@ -1,0 +1,26 @@
+td {
+border: 1px solid black;
+height: 200px;
+width: 200px;
+background-color: skyblue;
+
+}/*
+body{
+	background-color: skyblue;
+}*/
+td:hover{background-color:skyblue;opacity:.4;}
+body
+{
+	background-image: url("grid.png");
+
+}
+button:hover
+{
+
+ opacity:.5;
+}
+button
+{
+	background-color:grey;
+	border:1px solid black;
+}
